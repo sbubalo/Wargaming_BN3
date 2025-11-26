@@ -1,0 +1,3 @@
+Unwandlung von Text in JSON inkl. Ausgabe in ONEPAGER TXT
+-> arbeitet nur mit Txt Datei (hierfür wurden synthetisch Daten getestet)
+-> Mini Versuch json datei mit groundtruth (json erstellt) zu vergleichen (funkt aber nur für die txt datei von der mp3 datei, da es sonst keine ground truth gibt. Synth. Daten sind wir händisch durchgegangen
