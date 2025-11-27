@@ -1,0 +1,168 @@
+----- BEGINN NEUES TRANSKRIPT -----
+Sprecher 1: Guten Tag zusammen, ich begrüße euch zur heutigen Op4C-Runde. Wir haben wieder zwei Teams, Team Rot übernimmt den Angreifer und Team Blau die Verteidigung. Bevor wir starten, stellt euch bitte kurz vor. Rot, möchtest du anfangen?
+
+Sprecher 2: Ja, gerne. Ich bin Lea, Teil von Team Rot. Unser Ziel heute ist es, kritische Infrastruktur in einer fiktiven Stadt lahmzulegen, um politische Reaktionen zu erzwingen.
+
+Sprecher 1: Perfekt, danke Lea. Und Blau?
+
+Sprecher 3: Hallo, ich heiße Markus und gehöre zum Verteidigerteam. Ich werde versuchen, Leas Angriffe bestmöglich zu verhindern.
+
+Sprecher 1: Prima. Zur Erinnerung: Wir spielen zwei Runden mit jeweils zwei Phasen, Intelphase und Diskussionsgefecht. Zuerst würfelt Blau, ob euer Team den Intelvorteil von Rot erkennen kann, dann folgt Rot mit seinen Intelwürfen. Danach kommt das Diskussionsgefecht mit Bewertung der vier Dimensionen: Ressourcen, Komplexität, Verteidigung und Aktionszeitfenster. Verstanden?
+
+Sprecher 2: Ja.
+
+Sprecher 3: Alles klar.
+
+Sprecher 1: Dann starten wir mit Runde 1, Phase 1, Intelphase. Blau, du darfst drei Würfel werfen und brauchst mindestens 12. Los!
+
+Sprecher 3: Okay, ich würfle … es sind 13.
+
+Sprecher 1: Sehr gut, das bedeutet Blau darf den Intelvorteil von Rot sehen, Lea, du darfst jetzt also deine zwei Intelwürfe machen. Bitte erst den X-Wurf.
+
+Sprecher 2: X-Achse, eine 4.
+
+Sprecher 1: +1 bei X=3–4, sehr gut. Jetzt der Y-Wurf.
+
+Sprecher 2: Eine 6.
+
+Sprecher 1: Y=6 heißt Sabotageangriff, also Rot erhält +1 auf den Erfolgswurf für einen Sabotageangriff. Markus, du weißt das jetzt. Stellt euch kurz darauf ein. Gut, Phase 2 beginnt. Lea, bitte beschreibe deinen geplanten Angriff.
+
+Sprecher 2: Die Planung sieht so aus: Ich will die zentrale Stromversorgung der Stadt stören, indem ein mit Schadsoftware infizierter USB-Stick in das interne Netzwerk des Energieversorgers eingeschleust wird. Das soll eine großflächige Stromabschaltung zur Folge haben, um Chaos zu erzeugen und den Druck auf die Behörden zu erhöhen.
+
+Sprecher 1: Danke Lea. Markus, hast du Fragen dazu?
+
+Sprecher 3: Ja, wie wird der USB-Stick eingeschleust? Ist das physischer Zugang notwendig?
+
+Sprecher 2: Genau, ein Innentäter wird eingeschleust, unterstützt von unserem Team. Er ist ein Techniker, der Zugang zum Serverraum erhält.
+
+Sprecher 3: Verstehe, danke.
+
+Sprecher 1: Gut, wir diskutieren jetzt die Dimensionen. Fangen wir an mit Ressourcenintensität, Lea: Wie viele Ressourcen benötigt dieser Angriff?
+
+Sprecher 2: Ich schätze das auf M. Der Innentäter muss gut vorbereitet sein, Social Engineering, Technik, alles zusammen. Außerdem braucht es vorab eine umfangreiche Informationsbeschaffung.
+
+Sprecher 3: Ich sehe das durchaus auch so, mindestens M – allein der physische Zugang stellt eine Herausforderung dar. Ich setze Ressourcen auch auf M.
+
+Sprecher 1: Okay, dann notiere ich Ressourcen als M, Wert 2. Nächste Dimension: Angriffskomplexität. Lea, wie komplex?
+
+Sprecher 2: Hoch, definitiv L oder sogar XL. Das Timing ist kritisch, es müssen mehrere Komponenten koordiniert werden: der Innentäter, der USB-Stick mit Malware, die Entdeckung vermeiden.
+
+Sprecher 3: Ich stimme zu, L scheint angemessen, XL wäre übertrieben. Viele Variablen, hoher Koordinationsaufwand.
+
+Sprecher 1: Also L, Wert 3, wir notieren. Weiter bei Verteidigung, Markus, wie gut ist der Energieversorger gegen solche Angriffe geschützt?
+
+Sprecher 3: Es gibt strenge Zugangskontrollen und Netzwerkmonitoring, aber physischer Zugriff über Innentäter ist nicht gänzlich ausgeschlossen. Ich würde Verteidigung auf L setzen, da es zwar Schutz gibt, aber Angriffe trotzdem möglich sind.
+
+Sprecher 2: Von meiner Seite auch L, die Abwehr ist gut, aber nicht unüberwindbar.
+
+Sprecher 1: Verteidigung L, Wert 3. Letzte Dimension: Aktionszeitfenster. Lea, wie viel Zeit vergeht von Beginn des Angriffs bis zum unvermeidbaren Schaden?
+
+Sprecher 2: Das ist recht kurz. Nach Einschleusung wirkt die Malware innerhalb von Stunden. Ich sage S, wenige Stunden.
+
+Sprecher 3: Ich stimme zu, S ist plausibel.
+
+Sprecher 1: Angriffszeitfenster S, Wert 1. Nun summieren wir die Werte: 2 + 3 + 3 + 1 = 9. Lea, Du hast +1 Sabotagevorteil vom Intelwurf also benötigst du mindestens 8. Du darfst drei Würfel werfen.
+
+Sprecher 2: Okay, ich würfle. Eine 3, eine 5 und eine 2. Das macht 10.
+
+Sprecher 1: Mit 10 hast Du den Angriff erfolgreich durchgeführt. Die Sabotage des Stromnetzes führt zu einem mehrstündigen Blackout. Markus, wie schätzt du die Auswirkungen ein?
+
+Sprecher 3: Erhebliche Störungen in der Stadt, Verkehr, Krankenhäuser teilweise betroffen, Panik in der Bevölkerung. Die Verteidigung konnte den Angriff nicht verhindern.
+
+Sprecher 1: Gut, dann folgt Runde 2, Phase 1. Blau, würfle erneut drei Würfel für Intel.
+
+Sprecher 3: Würfle … eine 8.
+
+Sprecher 1: Leider keine 12, Vorteil bleibt verborgen. Markus, bitte verlasse für kurze Zeit den Raum, damit Lea würfeln kann.
+
+Sprecher 3: Verstanden, ich bin raus.
+
+Sprecher 1: Lea, bitte deinen X-Wurf.
+
+Sprecher 2: Eine 5.
+
+Sprecher 1: +2 Vorteil. Y-Wurf?
+
+Sprecher 2: 3.
+
+Sprecher 1: Angriff gilt auf Personal, also +2 auf Erfolgswurf bei Personalangriffen. Markus weiß jetzt noch nichts davon. Markus, willkommen zurück.
+
+Sprecher 3: Danke.
+
+Sprecher 1: Lea, was ist dein nächster Angriff?
+
+Sprecher 2: Ich plane einen gezielten Angriff auf Schlüsselpersonal der Stadtverwaltung. Ein verdeckter Innentäter wird versuchen, sensible Kommunikation zu kompromittieren und Einflussnahmen auszuüben, um Art und Umfang der Reaktion auf den Stromausfall zu schwächen.
+
+Sprecher 3: Gibt es Sicherheitssysteme, die das erschweren?
+
+Sprecher 2: Ja, Zugangskontrollen und Überwachung, aber auch hier gibt es Schlupflöcher – besonders bei Mitarbeitern, die Dienstgänge übernehmen.
+
+Sprecher 1: Wir diskutieren die Dimensionen: Ressourcenintensität?
+
+Sprecher 2: Diesmal etwas weniger Ressourcen als beim technischen Angriff. M scheint angemessen.
+
+Sprecher 3: Ich sehe den Aufwand auch im M-Bereich.
+
+Sprecher 1: Ressourcen M (2). Komplexität?
+
+Sprecher 2: Hier ist die Koordination ebenfalls wichtig, aber weniger körperlicher Aufwand. Auch M passt.
+
+Sprecher 3: Stimme zu, M.
+
+Sprecher 1: Komplexität M (2). Verteidigung?
+
+Sprecher 3: Das Sicherheitsteam ist hier sehr aufmerksam. Es gibt Schulungen, Zugangskonzept. Für mich eher L.
+
+Sprecher 2: Ich schätze auch L ein.
+
+Sprecher 1: Verteidigung L (3). Aktionszeitfenster?
+
+Sprecher 2: Tage, da die Maßnahmen der Verwaltung erst verzögert sichtbar sind. Also M.
+
+Sprecher 3: Ja, M ist passend.
+
+Sprecher 1: M (2). Summe: 2 + 2 + 3 + 2 = 9. Du hast +2 Vorteil bei Personal, also musst Du 7 oder mehr mit drei Würfeln würfeln.
+
+Sprecher 2: Würfe: 2, 3, 4 = 9.
+
+Sprecher 1: Angriff erfolgreich. Das Schlüsselpersonal wird in der Kommunikation gestört, was die Krisenreaktion der Verwaltung verzögert. Markus, eure Einschätzung?
+
+Sprecher 3: Es kommt zu Verzögerungen bei Entscheidungen und Koordination, die Reaktion auf den Stromausfall wird weniger effektiv.
+
+Sprecher 1: Damit ist unsere zweite Runde komplett. Vielen Dank an beide Teams für die kooperative und konstruktive Diskussion.
+
+Sprecher 2: Danke, hat Spaß gemacht.
+
+Sprecher 3: Ebenfalls, danke.
+
+Sprecher 1: Dann fasse ich nun den One-Pager zusammen.
+
+=== Ergebniszusammenfassung (One-Pager) ===
+
+Teilnehmer:  
+- Team Rot: Lea (Angreifer, staatlicher Akteur mit Sabotage- und Personalen Angriffszielen)  
+- Team Blau: Markus (Verteidiger, Betreiber Energieversorgung und Stadtverwaltung)  
+
+Angriffsergebnis:  
+- Runde 1: Sabotage der Stromversorgung erfolgreich – langanhaltender Stromausfall in der fiktiven Stadt mit erheblichen Auswirkungen auf kritische Infrastrukturen.  
+- Runde 2: Personalangriff erfolgreich – Kommunikationsstörungen im Schlüsselpersonal verzögern und schwächen Krisenmanagement.  
+
+Verteidigungsmaßnahmen des Verteidigers:  
+- Strenge Zugangskontrollen und Netzwerküberwachung beim Energieversorger, jedoch anfällig durch Innentäter und Social Engineering.  
+- Schulungen und Sicherheitsmaßnahmen bei Stadtverwaltung, dennoch Schlupflöcher durch Dienstgänge und Mitarbeiterwechsel.  
+
+Angriffsverlauf:  
+- Phase 1: Rot erhält Intelvorteil +1 für Sabotage; Attacke mittels Malware-Einschleusung über Innentäter gelingt trotz guter Verteidigungsmaßnahmen.  
+- Phase 2: Rot erhält Intelvorteil +2 für Personalangriff; verdeckter Angriff auf Schlüsselpersonal schwächt Krisenreaktion und Behindert effektive Gegenmaßnahmen.  
+
+Schwachstellen, die den Angriff ermöglicht haben:  
+- Zugang durch Innentäter trotz Zugangskontrollen und Überwachung.  
+- Verzögerte Reaktion auf Sabotageschäden durch kommunikative Störung des Personals.  
+- Mangelhafte Kontrolle bei Dienstgängen sowie komplexe Koordinationsanforderungen, die trotz Verteidigung nicht ausreichend verhindert wurden.  
+
+Empfehlung:  
+- Verstärkung physischer Sicherheitsmaßnahmen und Kontrolle von Dienstgängen.  
+- Verbesserung der Überwachung der Kommunikationskanäle und frühzeitige Erkennung von Sabotage.  
+- Pro-aktive Planung und Simulation von Personalstörungen zur Erhöhung der Resilienz.  
+
+----- ENDE NEUES TRANSKRIPT -----

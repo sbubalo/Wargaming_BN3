@@ -1,0 +1,69 @@
+{
+  "participants": {
+    "rot": "Clara",
+    "blau": "Antonio",
+    "t": "test"
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "phase1": {
+        "intel_blau_kennt_rot": false,
+        "intel_vorteil_rot_bonus": 0,
+        "intel_vorteil_rot_typ": null,
+        "wuerfe_blau": "Blau hat die 12 nicht erreicht",
+        "wuerfe_rot": "Rot hat 1 gewürfelt -> kein Intelvorteil"
+      },
+      "phase2": {
+        "ressourcen": "S",
+        "komplexitaet": "M",
+        "verteidigung": "L",
+        "aktionszeitfenster": "M",
+        "tabellensumme": 8,
+        "erfolgswurf_rot": "erfolgreich",
+        "auswirkung": "voller erfolg",
+        "argumente": {
+          "ressourcen": "",
+          "komplexitaet": "",
+          "verteidigung": "",
+          "aktionszeitfenster": ""
+        },
+        "luecken": ""
+      }
+    },
+    {
+      "round": 2,
+      "phase1": {
+        "intel_blau_kennt_rot": false,
+        "intel_vorteil_rot_bonus": 2,
+        "intel_vorteil_rot_typ": "personal",
+        "wuerfe_blau": "Blau hat die 12 nicht erreicht",
+        "wuerfe_rot": "Rot hat X=5, Y=4 gewürfelt -> Bonus +2 gegen Personal"
+      },
+      "phase2": {
+        "ressourcen": "M",
+        "komplexitaet": "L",
+        "verteidigung": "M",
+        "aktionszeitfenster": "S",
+        "tabellensumme": 8,
+        "erfolgswurf_rot": "nicht ausreichend",
+        "auswirkung": "teilerfolg",
+        "argumente": {
+          "ressourcen": "",
+          "komplexitaet": "",
+          "verteidigung": "",
+          "aktionszeitfenster": ""
+        },
+        "luecken": ""
+      }
+    }
+  ],
+  "summary": {
+    "angriffsergebnisse": "Runde 1 voller Erfolg, Runde 2 Teilerfolg",
+    "verteidigungsmassnahmen_bwi": "",
+    "angriffsverlauf": "",
+    "schwachstellen": "",
+    "luecken": ""
+  }
+}
+
